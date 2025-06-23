@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11878560776",
+    "project_id": "kasir-sederhana-6b35a",
+    "storage_bucket": "kasir-sederhana-6b35a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11878560776:android:7d109e20d3f6d9e3accdbd",
+        "android_client_info": {
+          "package_name": "com.example.kasir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKMBR2sUYFfN49-k6SaObO_po1_XkHMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11878560776:android:b179f0e656c76b0faccdbd",
+        "android_client_info": {
+          "package_name": "com.example.kasir_sederhana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKMBR2sUYFfN49-k6SaObO_po1_XkHMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
